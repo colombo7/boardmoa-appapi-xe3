@@ -1,0 +1,9 @@
+{
+  "version": "0.3.0",
+  "date": "2026-10-24",
+  "zip": "releases/appapi-xe3-0.3.0.zip",
+  "sha256": "674a6043a9347fd197c358d97fad09944b7ccb3e4ea446396eb93dcfb3a026f9",
+  "signature": "NW4sgatc1p43/qNPVkVbCSHcKVrWepp9VJHuiKh+KDO4vncUhf1qVDy/H4cmVKhkjUMR6I2t6F4iHevFFkas7GkXzDJEz1vKhjJ3Yy9GRTr2J/96cJmBdyRMe8P03nJhGcyonPRgBo4qW0nT0GT4CXKJcVeiynRC6zx0G70s3SEmo4ptMHArqs0gxlB8xyZc5EilDHx5HoPiHM3Qhyjy1q8VKfK8EfBbrYjM0Llh8qTvJv36vAMRZgw7v12orN7IIijkShW/qK9qPajtkuMnFSDJlBSvcDWB6UWQdq9F8y0eUeob0Ah+5FHA8IdeTnI2rTQ7/+2BY6N8pHdj07lAKYxYGxbMtEtIr0THjHUiVahKiOmHCse9gBncqFvX1sDNHmeLdYj3ZQBc3vxgEnlIqUjVMCWjuBRfjNDcqAxvdPDboR5EABTblvkTpR6tS48aoARq+gnqHno67LOy3hCqJN+SYpe5d9SXWbA+uzG7lH0MPL5PTbxtiPTmrVB7oVvT",
+  "min_php": "7.2",
+  "notes": "관리 화면에서 업데이트 확인·업데이트, 이미 스크랩한 글 표시"
+}

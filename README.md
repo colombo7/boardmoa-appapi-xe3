@@ -2,7 +2,8 @@
 
 스마트폰 게시판 앱 **게시판모아**가 XE3 사이트의 게시판을 읽고 쓸 수 있게 하는 플러그인입니다.
 
-- 최신 버전: **0.2.2 (시험판)** · 내려받기: [releases/appapi-xe3-0.2.2.zip](releases/appapi-xe3-0.2.2.zip)
+- 최신 버전: **0.3.0 (시험판)** · 내려받기: [releases/appapi-xe3-0.3.0.zip](releases/appapi-xe3-0.3.0.zip) · [latest.json](latest.json)
+- 설치한 뒤에는 관리 화면(설정 → 플러그인 → 게시판모아 앱 연동 → 설정)의 [업데이트 확인]으로 새 버전을 받습니다.
 - XE 1.11·Rhymix 사이트용 모듈은 [boardmoa-appapi](https://github.com/colombo7/boardmoa-appapi) 에 있습니다.
 
 
@@ -34,7 +35,9 @@ XE 1.11·Rhymix 사이트는 이 플러그인이 아니라 [boardmoa-appapi](htt
 목록 권한이 없는 게시판은 앱의 메뉴·새 글·검색 어디에도 나오지 않습니다.
 
 ## 업데이트·지우기
-- 업데이트: `plugins/appapi` 를 새 버전으로 바꿔 올리면 됩니다.
+- 업데이트(0.3.0부터): 관리 화면(설정 → 플러그인 → 게시판모아 앱 연동 → 설정)의 **[업데이트 확인]** → **[업데이트]**.
+  공개 저장소에서 받아 전자서명을 확인하고, 지금 파일을 `storage/app/appapi_backup/` 에 백업한 뒤 바꿉니다. 웹 서버가 `plugins/appapi` 에 쓸 수 있어야 합니다.
+  0.2.x 이하는 `plugins/appapi` 를 새 버전으로 직접 바꿔 올립니다.
 - 지우기: 관리자 페이지에서 끈 뒤 `plugins/appapi` 폴더를 지웁니다. 플러그인이 만든 표 `xe_appapi_ids`·`xe_appapi_tokens`(앱 로그인 정보)는 남으니 필요하면 지웁니다.
 
 ## 문의
