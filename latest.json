@@ -1,9 +1,9 @@
 {
-  "version": "0.3.2",
+  "version": "0.3.3",
   "date": "2026-10-24",
-  "zip": "releases/appapi-xe3-0.3.2.zip",
-  "sha256": "3b1183e493acada9dadeb5983b68603952ef92b7cb5b6f3a94f3547cf20ebad4",
-  "signature": "A8gIKb7wp6E8ZVMUE185oI4nnvuN0DLCAmtMT6uJ1Co3GZND/ExFI9SGqjTspd9NvSEmKJ/WfPEHg/YUolssU/wU3L07R9Zmh0Tdfz4+hVVQCXedpuRl+zAFmJJJ9tKI0az9P490QmGviJrr3Dt7MiYvYlI4IvD4oP82uvTE6cweQLu1oG3KjM/IdQKoaeqXhOLtnJ5nl0LLf+ql2noaDtF9P5VWhaWBNHmJ1zPebpiWdq/82Bd+XlpS878rPPD6wj1/3PPPrJPt3WhoJ0ZvOFR5hniKyWUuTBs5xA4qvdCWYnXA5rWiRouUGCaQdM9EvX9JHGzeciW/0KRmz0lDXn8uyoO2xK1sM01nRrnpcirH9nPj8Jv79Az+i/j/1FFBIw5g92J176L871rH8rQ/GkxVsvKo/Um4yZ4VAjoA3+IHK+qFZpkpb5LmmBPbPQasgZR2SU6cB/FuUoQOczYQXMLJfpMSQOJ0n9mk9subVVorXoQyMlXwRnH97RpEDYGF",
+  "zip": "releases/appapi-xe3-0.3.3.zip",
+  "sha256": "aa9a6bf21eded80a97c8d178872aba008dacfed16770bcc6ac394ce61c48c7c9",
+  "signature": "gZlHrbta0xpzcSx/0zbyXuaC7zBOVMLAAp1aA17w+R+o9aHmp7JninlnZx8FCZmoy6ANddBsA2TsnCbbRWwg4PTJYWBvZhh9ljpDwfSMVTj4/D/MWNECN2GUG+h2EcfihRxBo9tCaGw7a4tGI6a3QWx4QPL5nssPESRgVGVgeGWjfQNeXpVQy0dx8spEGnXzU84iBWDF1FCJHqRNdnYpZKInJVy8W0KyE5Th7PIEga7xF5UMHzporqhSAdyeBb0dyBwpA6+ChjoOUT7ahVXXp8e43/6P6TqosWeVqfwsjT45qnn5SPBt8jqcBxJkb6dudeGqPPUxzU6xRILHY1B4ZCRTkKc1aWOafp7UVG5u+orwV/2FG9ZXSi1P5flOrhHofwiblrqr6gN7sRwEoL/tcbiG7ECMXJc6936ytEBkpB4tVsRUP/7oNch5IvWjYCkOP4Zx6SnonueHHGoipoVMAhiCtkOU0+Px27t85KMuykua9bcFKqoudceTzBTCcwzl",
   "min_php": "7.2",
-  "notes": "포인트 플러그인을 쓰는 사이트에서 앱으로 글 읽기·내려받기·사진 올리기·추천받기도 웹과 같은 포인트 판단(모자라면 막음)"
+  "notes": "위젯 페이지(최신글·배너) 앱에서 보기, 휴면·소셜 전용 계정 로그인 안내, 글 속 지도를 '지도 보기' 링크로, XE3 글 주소를 앱에서 열기, 앱 언어(영어) 메시지, 글 속 설문 보기·투표, 새 글 글자 꾸밈, 내 정보 포인트"
 }
