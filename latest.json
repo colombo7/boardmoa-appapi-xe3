@@ -1,9 +1,9 @@
 {
-  "version": "0.3.1",
+  "version": "0.3.2",
   "date": "2026-10-24",
-  "zip": "releases/appapi-xe3-0.3.1.zip",
-  "sha256": "1789ac42197b60f10fb93ab211c11fbfd61fc8f44f48eb982c59f9fa393c123b",
-  "signature": "aWgFd1Ba7zTrd8ePY1VNu/UWFf1+fVNtMulpEzZTT5AeCxHYW5G5uqZoWWKPUK9d4e5LyvAvZDMzex71nXl1ao+Rb9/gtRELTGUyQYaMj+r6V08z97PmoubrrBorW6M0EdWWJV/TQYN1yCHoTBIO0WYhpegn/4x0fwicdvTH9CT1KeMIoiwVP4lqpgrcajNN9phxr8HKlnraHUQFStMfpYWK3vVk9Pz8j3OjkNzZF7Mc9YESCu/CsPfN/LSamc9FZibFKFflA5PhSGUuf4tbVRynPcj1uhxbGScuw6BYaUrwShkmeVZ7HIMR2MkEnpGa6tbS6k93TpaQwLDopUb85/dw6gpjZTMS1YANvM4BCiOrUWJcTJG8ZEhjQxEAV68WXvRRNvrg7705Vc//Fb4+/ZXBfm67H6eJZ4RnUkMcG+Z3gmcNrQO7v/gbF4V1IIn+7wceNlwUoyrXlLO29m5VSuE+9f+fxLQv78TnMEGeZ/jmlrfFTjFFs7kcKRkILLY+",
+  "zip": "releases/appapi-xe3-0.3.2.zip",
+  "sha256": "3b1183e493acada9dadeb5983b68603952ef92b7cb5b6f3a94f3547cf20ebad4",
+  "signature": "A8gIKb7wp6E8ZVMUE185oI4nnvuN0DLCAmtMT6uJ1Co3GZND/ExFI9SGqjTspd9NvSEmKJ/WfPEHg/YUolssU/wU3L07R9Zmh0Tdfz4+hVVQCXedpuRl+zAFmJJJ9tKI0az9P490QmGviJrr3Dt7MiYvYlI4IvD4oP82uvTE6cweQLu1oG3KjM/IdQKoaeqXhOLtnJ5nl0LLf+ql2noaDtF9P5VWhaWBNHmJ1zPebpiWdq/82Bd+XlpS878rPPD6wj1/3PPPrJPt3WhoJ0ZvOFR5hniKyWUuTBs5xA4qvdCWYnXA5rWiRouUGCaQdM9EvX9JHGzeciW/0KRmz0lDXn8uyoO2xK1sM01nRrnpcirH9nPj8Jv79Az+i/j/1FFBIw5g92J176L871rH8rQ/GkxVsvKo/Um4yZ4VAjoA3+IHK+qFZpkpb5LmmBPbPQasgZR2SU6cB/FuUoQOczYQXMLJfpMSQOJ0n9mk9subVVorXoQyMlXwRnH97RpEDYGF",
   "min_php": "7.2",
-  "notes": "설치 현황 알리기(업데이트 확인 때 사이트 주소를 개발자에게, 설정에서 끌 수 있음)"
+  "notes": "포인트 플러그인을 쓰는 사이트에서 앱으로 글 읽기·내려받기·사진 올리기·추천받기도 웹과 같은 포인트 판단(모자라면 막음)"
 }
