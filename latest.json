@@ -1,9 +1,9 @@
 {
-  "version": "0.3.0",
+  "version": "0.3.1",
   "date": "2026-10-24",
-  "zip": "releases/appapi-xe3-0.3.0.zip",
-  "sha256": "674a6043a9347fd197c358d97fad09944b7ccb3e4ea446396eb93dcfb3a026f9",
-  "signature": "NW4sgatc1p43/qNPVkVbCSHcKVrWepp9VJHuiKh+KDO4vncUhf1qVDy/H4cmVKhkjUMR6I2t6F4iHevFFkas7GkXzDJEz1vKhjJ3Yy9GRTr2J/96cJmBdyRMe8P03nJhGcyonPRgBo4qW0nT0GT4CXKJcVeiynRC6zx0G70s3SEmo4ptMHArqs0gxlB8xyZc5EilDHx5HoPiHM3Qhyjy1q8VKfK8EfBbrYjM0Llh8qTvJv36vAMRZgw7v12orN7IIijkShW/qK9qPajtkuMnFSDJlBSvcDWB6UWQdq9F8y0eUeob0Ah+5FHA8IdeTnI2rTQ7/+2BY6N8pHdj07lAKYxYGxbMtEtIr0THjHUiVahKiOmHCse9gBncqFvX1sDNHmeLdYj3ZQBc3vxgEnlIqUjVMCWjuBRfjNDcqAxvdPDboR5EABTblvkTpR6tS48aoARq+gnqHno67LOy3hCqJN+SYpe5d9SXWbA+uzG7lH0MPL5PTbxtiPTmrVB7oVvT",
+  "zip": "releases/appapi-xe3-0.3.1.zip",
+  "sha256": "1789ac42197b60f10fb93ab211c11fbfd61fc8f44f48eb982c59f9fa393c123b",
+  "signature": "aWgFd1Ba7zTrd8ePY1VNu/UWFf1+fVNtMulpEzZTT5AeCxHYW5G5uqZoWWKPUK9d4e5LyvAvZDMzex71nXl1ao+Rb9/gtRELTGUyQYaMj+r6V08z97PmoubrrBorW6M0EdWWJV/TQYN1yCHoTBIO0WYhpegn/4x0fwicdvTH9CT1KeMIoiwVP4lqpgrcajNN9phxr8HKlnraHUQFStMfpYWK3vVk9Pz8j3OjkNzZF7Mc9YESCu/CsPfN/LSamc9FZibFKFflA5PhSGUuf4tbVRynPcj1uhxbGScuw6BYaUrwShkmeVZ7HIMR2MkEnpGa6tbS6k93TpaQwLDopUb85/dw6gpjZTMS1YANvM4BCiOrUWJcTJG8ZEhjQxEAV68WXvRRNvrg7705Vc//Fb4+/ZXBfm67H6eJZ4RnUkMcG+Z3gmcNrQO7v/gbF4V1IIn+7wceNlwUoyrXlLO29m5VSuE+9f+fxLQv78TnMEGeZ/jmlrfFTjFFs7kcKRkILLY+",
   "min_php": "7.2",
-  "notes": "관리 화면에서 업데이트 확인·업데이트, 이미 스크랩한 글 표시"
+  "notes": "설치 현황 알리기(업데이트 확인 때 사이트 주소를 개발자에게, 설정에서 끌 수 있음)"
 }
