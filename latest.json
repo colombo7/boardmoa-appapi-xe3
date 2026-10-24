@@ -1,9 +1,9 @@
 {
-  "version": "0.3.4",
+  "version": "0.3.5",
   "date": "2026-10-24",
-  "zip": "releases/appapi-xe3-0.3.4.zip",
-  "sha256": "34e89ac6d3e2415b9d17043d120f4d3ebae8517b453447625ed0e32222bc2257",
-  "signature": "v+zdp78RwiX62niq2snX4bHNYKuS6zN47bqeody49qKas4OSsaWbVVKOI/Hv8lT9sdj7NtctjYBmhq6NOdwPjpLXkzCXyS7A3TWPQxtBWiZ8c0MTU3jQ9hmJ2WNS6C4kX5/9Z59BFSYUoxu+9bZsvhEMHxRwobZiQack4TjRO6qLKnk9efUPCgXH/Qc1rE6au83nkA/dgWKlWyBju0w4f9bbF193UjP6pgVeCmGHFjMDMRa2xDkaTR7lNfSPatHLKJ3UaBc4ptl5ZXix8QMxR2zPQiAxa7x3XE+hjVKEOs8pFHjQ5X7pRwWXyQqG37qOX9AB6bR2HwEtaZ+6S5U5USZsX2B4vdpGbJwUAo1pFnB3rlcF/N3qeOfxi+OtIx/6sLmLjYdqB6p7amq+tF9valJo0fjHy6OtHAEP14ituTzMCV8dIF9N2Hv8yFTyKYWIfM9cla7INlZjFm5NLdaJrSBq+c/KpiQFSOG7r1z3NcFWIda6gMyQZj8b1FDVrrfE",
+  "zip": "releases/appapi-xe3-0.3.5.zip",
+  "sha256": "095ab381f3473e36f040b78bf72ab327840d4142edbffb141ff1ae63aadbcea9",
+  "signature": "oEwDJNOzo+WxUqpNAiGqJ+EzydWnH6QgRJrNaWOssK2AgjOAIKpo4Rx5aTuPVWDnFxl+xZm4hriunoi7RXVYN0hpxoma+HLoB51Ykpmu/Z89QLdjzMH1myHHHXC2A+1o9sYYcdbBWxk0mxBGETFZo6kvQg1gHWBXwWVI6dxKc1bUq0IlcZTo4/i8e28ShWFDUnuxyuzRAQny4g+QeZZ7Laju8PMboPDrFnZosmMvZbyTLU0fyc//gXjQkkoBDc+zz7Q37OncTP2VOAILJt+5Yr1ct6WwPYoReZkIaT9mfdypgJut6WcNx3UG0eMGBFcPrF62DWLR7aXSGKuZznVtcabaSm4i9beaWtUqt5EndPaWXInzsZJLWIw5xGvLo7BguR6ZDGveGts5KnLVmiAlWsq5kqHW+ByStvVcQqs7T2aeWeblORvEJEFyv74E+N1gXldDKSWY4cjSAsRTZTYtMisGcBV5wP1cBILlwb3iGX6BSZx/YOsf6LDheTKPXzhy",
   "min_php": "7.2",
-  "notes": "사진 첨부를 웹과 같게: 비회원 글쓰기·사진 첨부(웹에서 허용한 게시판만), 글 수정 때 사진 추가"
+  "notes": "비회원 글·댓글을 웹처럼 메일·비밀번호로 수정·삭제, 비회원 댓글 쓰기, 비회원 비밀글 보기, 댓글 수정"
 }
