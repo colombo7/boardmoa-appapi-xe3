@@ -1,9 +1,9 @@
 {
-  "version": "0.3.5",
-  "date": "2026-10-24",
-  "zip": "releases/appapi-xe3-0.3.5.zip",
-  "sha256": "095ab381f3473e36f040b78bf72ab327840d4142edbffb141ff1ae63aadbcea9",
-  "signature": "oEwDJNOzo+WxUqpNAiGqJ+EzydWnH6QgRJrNaWOssK2AgjOAIKpo4Rx5aTuPVWDnFxl+xZm4hriunoi7RXVYN0hpxoma+HLoB51Ykpmu/Z89QLdjzMH1myHHHXC2A+1o9sYYcdbBWxk0mxBGETFZo6kvQg1gHWBXwWVI6dxKc1bUq0IlcZTo4/i8e28ShWFDUnuxyuzRAQny4g+QeZZ7Laju8PMboPDrFnZosmMvZbyTLU0fyc//gXjQkkoBDc+zz7Q37OncTP2VOAILJt+5Yr1ct6WwPYoReZkIaT9mfdypgJut6WcNx3UG0eMGBFcPrF62DWLR7aXSGKuZznVtcabaSm4i9beaWtUqt5EndPaWXInzsZJLWIw5xGvLo7BguR6ZDGveGts5KnLVmiAlWsq5kqHW+ByStvVcQqs7T2aeWeblORvEJEFyv74E+N1gXldDKSWY4cjSAsRTZTYtMisGcBV5wP1cBILlwb3iGX6BSZx/YOsf6LDheTKPXzhy",
+  "version": "0.3.6",
+  "date": "2026-10-25",
+  "zip": "releases/appapi-xe3-0.3.6.zip",
+  "sha256": "c8ef916a312b3553d40c2b2779da50301dc3d19c32b5181382262da3c8d6e60b",
+  "signature": "PaYDRNKo4aEzAQynGMVv2cexK7k34UDIEJyTDoGIkpuV++Jejv+IO3xcsWjSZpjs7ATewphg5mVCARBPtm5PlCLJiL/MChDamchQpzkCZXh9nXPCNrMJZWBZGfJXFeZKm1o2uqpE4o5SvR0ZWUcLg+XnPDyE3OC2AkwOsKmIxkFHPl++nEziRgn69iMc4Zul3Cksjit9Bu5T8drBYkDp2x05X+2W/R5CzIjDn5Chs7si8aYG8dpB3dn+MDfpZkdubeE2l1x6LdGjHLYMd9SIBO0cJaTnzLbvbvskpvYn5FmRJdrwbo+py3IaP/AdctFIVYMJRWcJpCv0YegIrEUYxD0YuDTnxx/w/Df0/Vt5v0kMKDgGnvLasOXc37VvOvEOYWAn7/Bjz/ttumOz3XVOlW6AtpeW8dwTxsDxm4qJZhnyVamNCWYy6AEEjK7F2PXjRhkGPux/FR6kyP+PS/4l0iEJWK/nducYLi/txvfEIicylQFC1DC92VMi58isgECV",
   "min_php": "7.2",
-  "notes": "비회원 글·댓글을 웹처럼 메일·비밀번호로 수정·삭제, 비회원 댓글 쓰기, 비회원 비밀글 보기, 댓글 수정"
+  "notes": "12개 언어(앱 언어에 맞춘 메뉴·안내 문구, 중국어 간체 포함), 가입 설정을 앱에 알림, '#' 묶음 메뉴를 묶음으로, 사이트 아이콘"
 }
