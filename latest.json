@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "date": "2026-10-25",
-  "zip": "releases/appapi-xe3-1.0.1.zip",
-  "sha256": "451b7c331be3cd64ba2bc5abded62f3a1c74e8ceb0c95f0fdb32f86d1e0fee22",
-  "signature": "WKGAfqTNV6R2x9Tcnf9daXwNUSWyMUu+B4iPx/zMQZt/ybBGvNLeRB8Hv23AfyiHuWlwXEHN6HN12s6fORzBBvNoNfbb6lT6+Y+F+rltASG1WQlVP5G4fqA9D6wbrQ+DPfEdNi3dTlYL4kmgVhZUGZVDfbWpHDqqmrNSn5jOb99Ku4GxVhevlWYgHvJa42njN9EPTPTz8L7fh3fr8JRULItl9snrO8Bqac64D5RCT0utLlcHKIIRp25VMWS08NiVQUhpxc0XdxGCL12NBMeYz0Wm9WAP04UO5a0rQUTqfkBnajI924q1dZjoiCyUeG1nY8vEgc6LLubaxdU7IY8wa0TlzwfTz6omyt2aAoA1DcIBuKGtTTK6Ykv5VlL14/cMqkPlXjSGH1VRghemWUPQUetv8RDnZuGmkxnLcrCGJF+RcNhw2OtZD+S7TeyPinaediNnRFgC26S9uFoT03liSjhr764+J1WgZ47ad3TWnflqlHfFRAmcaFkZck0ltPSB",
+  "zip": "releases/appapi-xe3-1.0.2.zip",
+  "sha256": "af0dd8bdc595654c1e1b2db79433706f03ec4f1ca60223acc1528af2af840f33",
+  "signature": "EAA9D+5bff9eEEjhPo0mTvyzApugYEu+eowF9I5qfX26HljDzif3ZxonzfAJ8XzHh5lMy/p+C1njVRFdJvCGugj77/HqoyXoFpBGrYjl9OaQupipB5NwIOIki55Tg68KLCRtiyOkqd5N60n2UxQSepBfbm2RjErk7aJqXvnAoOFRDjhZWr1MbASO3LHk9QktYtNQxG558H1yb7vaXi9FTU7yfMvmB6/PUhpT3HLvGRrtVZFVFs6g+Lj5P1fF79f81JLolrdUPEH5fhgmgO9mbNF9Yo+99/QmM/0lmiU+pKJSvLRgy5WkXyw+5o0ZZ9vxhj86sR6MiqeXbHaAK9Hx8W+D5uF0zoENDyZBn0MSthzYrCM+cQ081DeEO7i8ywJRqS1HwGFZT+q9mpn/iqRIBryWnpEXdZBjlrQtLRus83k2/CdGvZ+klXGfLXubBMSH5MoxZlAMh6/0WmU9QGQaUS3MtKqRGkHyvD7JRt6x6tPVca4DouWlUXRT5rb4nWx9",
   "min_php": "7.2",
-  "notes": "보안 수정: 휴지통·승인 대기 비밀글 정보와 상담 게시판 글 노출 막기, 상담 게시판 비회원 글쓰기 막기, 비밀번호 시도 횟수 제한, 이상한 값으로 서버 오류 나던 것, CAPTCHA 게시판 처리"
+  "notes": "본문 속 사진을 목록 썸네일로(웹 갤러리 스킨과 같은 순서), 목록 요약의 문단 사이 띄어쓰기"
 }
