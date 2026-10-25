@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "date": "2026-10-26",
-  "zip": "releases/appapi-xe3-1.0.3.zip",
-  "sha256": "dd51388efcb6c063432ac93b252c905f2c0783b547100f9091f63eafe08b9ed0",
-  "signature": "J6Vs6waQ2O5ybGMG8PmgtjKRI47CdexI1wuLXBEu1j4VaWBZy2BhL1JxVLf5elkEOxPmVcoXvQa9q1AsQ9OljZaWKsufqkmrG/mh+Ihgermd/Vg0t689L/8csMYXtMaM8sYlNjesNbKLUsn2MDKW2V4sj0T1vscaRsh+ZrStrZhwyLBwcI681K/Q3t081TK5tm2HE/Wf0Jc4QzsznLqe56xUDzeUpJ3AB8n+lm8e/SPGUdfEQh31A2ZmtZmXwTfyTn8U9nvjIadVGDYEe9ZCPyF9BtWRKJJ91uUG33U40628uFc2JorBjOyA6Nr7vRDtZDJNmSVTTU1UN4AOlqxptMJcT2Q+EYEDNZfbT84Wer0oXlq3AMsqbxLQl2Xxef25GBSenyjQy35iZwpVo1DM/ssXxZ4fFrkvLtyfm9bM1CQxDrMAps9LixEVDQQi5NlHHEi+t+Kt0+hbSgvocivHEmAJcW5D0NegW3rQx27/gH0rW0fSw4KAlZGggaFRhq0W",
+  "zip": "releases/appapi-xe3-1.0.4.zip",
+  "sha256": "e6887437e3cba17f927e244aadc427bbde2f21fe3d1b8e8375d18765b0bf1103",
+  "signature": "ZQ/tYBgA2pnFyebJ+aSqrCJtLYvSnf+sjTZAU2UlJUhKCIfdafqG92wrHKZF75HmgoKSRRcjkEvNvpMOk1UyWtDzuWuiDvy5Q5TajtMd6QWlLOLHL9lmn1WxkSVAZGPcc4LqpbyIBE7ePZA22MU4suwElvpncKzxZ9/O5dCqEfK9ABuzkeO8s6S8X+0aWofrKflEJIHbLBhYCTnoSfrWeiOcb+y+ttCwwtvV5V9WzSax6jJXam8ngxDjAlh1iXktNUL4NKnuiwLTiBZ8pifyGdRMKHoOF7xt7wudjQFbi91yH/N+VAznx5XBAmpBQ7YEwCEHSDgFYYSxZcW59OkokEDs3m1dhgc00l50ZcNkmbVJKV925rATG9HVNyGvIGiezym6X9xnVvLZ77fsFJMhNaX9AQsb22iUldRoNVlKrZzBD2Rd/UqAYkI25ZULAIyvrxUyiQFUAnbvd2RrbaPJCwssQ5fz0GyVrIpcSydL2KLc4s1oEE+hARp1Ih3c/pel",
   "min_php": "7.2",
   "notes": "XE/Rhymix 모듈과 번호를 맞춘 판(기능 변화 없음)"
 }
