@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
-  "date": "2026-10-25",
-  "zip": "releases/appapi-xe3-1.0.2.zip",
-  "sha256": "af0dd8bdc595654c1e1b2db79433706f03ec4f1ca60223acc1528af2af840f33",
-  "signature": "EAA9D+5bff9eEEjhPo0mTvyzApugYEu+eowF9I5qfX26HljDzif3ZxonzfAJ8XzHh5lMy/p+C1njVRFdJvCGugj77/HqoyXoFpBGrYjl9OaQupipB5NwIOIki55Tg68KLCRtiyOkqd5N60n2UxQSepBfbm2RjErk7aJqXvnAoOFRDjhZWr1MbASO3LHk9QktYtNQxG558H1yb7vaXi9FTU7yfMvmB6/PUhpT3HLvGRrtVZFVFs6g+Lj5P1fF79f81JLolrdUPEH5fhgmgO9mbNF9Yo+99/QmM/0lmiU+pKJSvLRgy5WkXyw+5o0ZZ9vxhj86sR6MiqeXbHaAK9Hx8W+D5uF0zoENDyZBn0MSthzYrCM+cQ081DeEO7i8ywJRqS1HwGFZT+q9mpn/iqRIBryWnpEXdZBjlrQtLRus83k2/CdGvZ+klXGfLXubBMSH5MoxZlAMh6/0WmU9QGQaUS3MtKqRGkHyvD7JRt6x6tPVca4DouWlUXRT5rb4nWx9",
+  "version": "1.0.3",
+  "date": "2026-10-26",
+  "zip": "releases/appapi-xe3-1.0.3.zip",
+  "sha256": "dd51388efcb6c063432ac93b252c905f2c0783b547100f9091f63eafe08b9ed0",
+  "signature": "J6Vs6waQ2O5ybGMG8PmgtjKRI47CdexI1wuLXBEu1j4VaWBZy2BhL1JxVLf5elkEOxPmVcoXvQa9q1AsQ9OljZaWKsufqkmrG/mh+Ihgermd/Vg0t689L/8csMYXtMaM8sYlNjesNbKLUsn2MDKW2V4sj0T1vscaRsh+ZrStrZhwyLBwcI681K/Q3t081TK5tm2HE/Wf0Jc4QzsznLqe56xUDzeUpJ3AB8n+lm8e/SPGUdfEQh31A2ZmtZmXwTfyTn8U9nvjIadVGDYEe9ZCPyF9BtWRKJJ91uUG33U40628uFc2JorBjOyA6Nr7vRDtZDJNmSVTTU1UN4AOlqxptMJcT2Q+EYEDNZfbT84Wer0oXlq3AMsqbxLQl2Xxef25GBSenyjQy35iZwpVo1DM/ssXxZ4fFrkvLtyfm9bM1CQxDrMAps9LixEVDQQi5NlHHEi+t+Kt0+hbSgvocivHEmAJcW5D0NegW3rQx27/gH0rW0fSw4KAlZGggaFRhq0W",
   "min_php": "7.2",
-  "notes": "본문 속 사진을 목록 썸네일로(웹 갤러리 스킨과 같은 순서), 목록 요약의 문단 사이 띄어쓰기"
+  "notes": "XE/Rhymix 모듈과 번호를 맞춘 판(기능 변화 없음)"
 }
