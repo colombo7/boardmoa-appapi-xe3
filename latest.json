@@ -1,9 +1,9 @@
 {
-  "version": "0.3.6",
+  "version": "1.0.0",
   "date": "2026-10-25",
-  "zip": "releases/appapi-xe3-0.3.6.zip",
-  "sha256": "c8ef916a312b3553d40c2b2779da50301dc3d19c32b5181382262da3c8d6e60b",
-  "signature": "PaYDRNKo4aEzAQynGMVv2cexK7k34UDIEJyTDoGIkpuV++Jejv+IO3xcsWjSZpjs7ATewphg5mVCARBPtm5PlCLJiL/MChDamchQpzkCZXh9nXPCNrMJZWBZGfJXFeZKm1o2uqpE4o5SvR0ZWUcLg+XnPDyE3OC2AkwOsKmIxkFHPl++nEziRgn69iMc4Zul3Cksjit9Bu5T8drBYkDp2x05X+2W/R5CzIjDn5Chs7si8aYG8dpB3dn+MDfpZkdubeE2l1x6LdGjHLYMd9SIBO0cJaTnzLbvbvskpvYn5FmRJdrwbo+py3IaP/AdctFIVYMJRWcJpCv0YegIrEUYxD0YuDTnxx/w/Df0/Vt5v0kMKDgGnvLasOXc37VvOvEOYWAn7/Bjz/ttumOz3XVOlW6AtpeW8dwTxsDxm4qJZhnyVamNCWYy6AEEjK7F2PXjRhkGPux/FR6kyP+PS/4l0iEJWK/nducYLi/txvfEIicylQFC1DC92VMi58isgECV",
+  "zip": "releases/appapi-xe3-1.0.0.zip",
+  "sha256": "56b02c8704021bb1f9b05bb1f166c69fb0cbd5a7ada877d779f5880fc2ede0d2",
+  "signature": "TjrR1i9DmANYibYjYVojCJ0AXe+xwPCx53zC+oTReOeG/4FUlHyyeXojFuaAG22zm6o4I8BFBiMmTHt31vseBDIYH1zcWdAwqTkhBLYv55amPS3vSBFQm06pWTB1SD/J/YSEdvQw2oQtn5xGCCcGR5dZaKfdIFcIDUmpFJInKL7zzePsmgiicKFGddMWinuyP0Ai1qnRGqy+XDTeASIO6Crb6ElXa8Rw+YlJ7oLy6st0J94NLLxTlpaqkCdBU0GRAZVpw2tcCJBQyDYus6bATeiR8B24zrkYCplNITkrp+SkL4p4jawe30z/xyzR/vQ8Og8jTq5ublxnp+ExHNyHCgHraxIc3Jo/OBUtFzH7hvdRNNFTbZok1qEDsTWhrR90RoLq2yhTp4apXvJyKCeD26cWTFx5XQ1WpEjU/UfmOso67i/q6DWA6ey4i5PhhzMVqJIoRmeA231hBcuGd9JIKe0U3QBiochwDPvuINpibgrSToEHMMeLfElYPgJ/5NUk",
   "min_php": "7.2",
-  "notes": "12개 언어(앱 언어에 맞춘 메뉴·안내 문구, 중국어 간체 포함), 가입 설정을 앱에 알림, '#' 묶음 메뉴를 묶음으로, 사이트 아이콘"
+  "notes": "버전 번호를 XE/Rhymix·WordPress 연결 모듈과 같은 1.0.0 으로 맞춤 (기능 변화 없음)"
 }
