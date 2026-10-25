@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "date": "2026-10-25",
-  "zip": "releases/appapi-xe3-1.0.0.zip",
-  "sha256": "56b02c8704021bb1f9b05bb1f166c69fb0cbd5a7ada877d779f5880fc2ede0d2",
-  "signature": "TjrR1i9DmANYibYjYVojCJ0AXe+xwPCx53zC+oTReOeG/4FUlHyyeXojFuaAG22zm6o4I8BFBiMmTHt31vseBDIYH1zcWdAwqTkhBLYv55amPS3vSBFQm06pWTB1SD/J/YSEdvQw2oQtn5xGCCcGR5dZaKfdIFcIDUmpFJInKL7zzePsmgiicKFGddMWinuyP0Ai1qnRGqy+XDTeASIO6Crb6ElXa8Rw+YlJ7oLy6st0J94NLLxTlpaqkCdBU0GRAZVpw2tcCJBQyDYus6bATeiR8B24zrkYCplNITkrp+SkL4p4jawe30z/xyzR/vQ8Og8jTq5ublxnp+ExHNyHCgHraxIc3Jo/OBUtFzH7hvdRNNFTbZok1qEDsTWhrR90RoLq2yhTp4apXvJyKCeD26cWTFx5XQ1WpEjU/UfmOso67i/q6DWA6ey4i5PhhzMVqJIoRmeA231hBcuGd9JIKe0U3QBiochwDPvuINpibgrSToEHMMeLfElYPgJ/5NUk",
+  "zip": "releases/appapi-xe3-1.0.1.zip",
+  "sha256": "451b7c331be3cd64ba2bc5abded62f3a1c74e8ceb0c95f0fdb32f86d1e0fee22",
+  "signature": "WKGAfqTNV6R2x9Tcnf9daXwNUSWyMUu+B4iPx/zMQZt/ybBGvNLeRB8Hv23AfyiHuWlwXEHN6HN12s6fORzBBvNoNfbb6lT6+Y+F+rltASG1WQlVP5G4fqA9D6wbrQ+DPfEdNi3dTlYL4kmgVhZUGZVDfbWpHDqqmrNSn5jOb99Ku4GxVhevlWYgHvJa42njN9EPTPTz8L7fh3fr8JRULItl9snrO8Bqac64D5RCT0utLlcHKIIRp25VMWS08NiVQUhpxc0XdxGCL12NBMeYz0Wm9WAP04UO5a0rQUTqfkBnajI924q1dZjoiCyUeG1nY8vEgc6LLubaxdU7IY8wa0TlzwfTz6omyt2aAoA1DcIBuKGtTTK6Ykv5VlL14/cMqkPlXjSGH1VRghemWUPQUetv8RDnZuGmkxnLcrCGJF+RcNhw2OtZD+S7TeyPinaediNnRFgC26S9uFoT03liSjhr764+J1WgZ47ad3TWnflqlHfFRAmcaFkZck0ltPSB",
   "min_php": "7.2",
-  "notes": "버전 번호를 XE/Rhymix·WordPress 연결 모듈과 같은 1.0.0 으로 맞춤 (기능 변화 없음)"
+  "notes": "보안 수정: 휴지통·승인 대기 비밀글 정보와 상담 게시판 글 노출 막기, 상담 게시판 비회원 글쓰기 막기, 비밀번호 시도 횟수 제한, 이상한 값으로 서버 오류 나던 것, CAPTCHA 게시판 처리"
 }
