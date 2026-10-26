@@ -1,9 +1,9 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "date": "2026-10-26",
-  "zip": "releases/appapi-xe3-1.0.5.zip",
-  "sha256": "a2be299c420029c2cac6ee6ca21dfdc97da3d5bc3f633097039f68c876da77cc",
-  "signature": "oVaMDkugxfdc07rp5EfYGsnnunZygEJCLUDVsxlnj60rr7HDxJs1sj4514nhMFPZ2m7ULi5Gakoxs8QN1fWMSIpojnnaUHfBQdhYjrGmR7+Qk2j2PJtePo0dLs06Ts+vQnWZTL+411FgqmN9FhVlkhetlnEUBRuF+utsdxbPc4gdZWrwnjT+hB88UWtsekLtaoUyeJDpKsGISI3bbhaPBGatkuk8RkTfBLowpzEYrp5EjWM1601vj5GAhzJSB14xu169FU8lvqdGTyvf5MB+KK7BIXxyu/5B436f+ppFb19rRR14vY+gHXyHPxr0GHUXFWGU0pbblaTt79Plhy711Pqb8uo6INH5Ld8Yl3Dsm662LXxlU1LQFE+0NhgOFqa+67jRiwtYKUqdcwjvICYBHzAB+TYd22q7rW7YjcUkDvNuW7azLqIJF9vL7qNCetRoWhuuGgOrHwbAVgfoityyvbKaEOeGnkZCk1TzyS6QHUQQxUtS8R5oW2nzoMPX/Oed",
+  "zip": "releases/appapi-xe3-1.0.6.zip",
+  "sha256": "8b1c9516a3b09ffc770bbf46fe55453dcf1fcdf4d0379b71fc237b437b9ab065",
+  "signature": "Vyli4+ygBXJByVghkfq0fKubgui7z0Oo8fpwlYJDVr5BoyDnzqGOCnWJIKK2urhflDzit6GZ2O5SGKD79pV7bKl5duoHUGnSeIEQZs2bJ05afWwOZEsF0+TKc8QIeanQ5l6GUYFJApnJVY793+LLXJgQgyRlJ/DID4BcjSuMHR1DlvNm4SUNhWI3qjnx7hEbHZZ9iin87xhveTgD0rNufqFasKCjLRM92OuZx1L8SBzTwIt//yyt1GGOIaGCzCn7LlDBBxl6JpMkohZyBscTkiS7FsRlrI/566fza+1P1b5/iCTh0KWcPxwwTsLvAfsrxpYKchLlkmKf61/p46stqqYrq9ZJes6ou93VjYQSW4TX++6gOKNB1bsfytjQhwc2+c5C77B0Qu6kIhvclnPAxsC8ZxjvqJKmYSxQKjp6iKaYYfc14F0l6BOBRWGkGILEL4kNdEvZk/3l7mbdDMvJU8GAuMChmxVbucOVSj3mJ5hqY47cLW4mPxoj5w+q3zbu",
   "min_php": "7.2",
-  "notes": "버전 번호를 XE/Rhymix·WordPress 모듈과 맞춤(1.0.5)"
+  "notes": "버전 번호를 XE/Rhymix·WordPress 모듈과 맞춤(1.0.6)"
 }
