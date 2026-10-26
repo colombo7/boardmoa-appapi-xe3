@@ -1,9 +1,9 @@
 {
-  "version": "1.0.9",
-  "date": "2026-10-26",
-  "zip": "releases/appapi-xe3-1.0.9.zip",
-  "sha256": "7ca473d886fad24172240e4bf2b1fa2fc5daf3be48ad2d8e9fbc1681fe453186",
-  "signature": "go9ctLYz+YQu7Dc7ixtcZoyxKU5LQYXU52d6XDbKeL21/GoauFwHEC58D7UpppBsXwuGiiRkz+bNX68DfCaXFOxR0LptBK3NVDHLCcUArsQFDOoqs6QoeHJEmwuvfXncibo77kfzYTmPVDJQMC8Git1bQ0HJm2UXrc6loHEb7NKb8YH4rR5LDAkkSJSqiEvdPbFglpjTjSZzuxzUASrcAW2QI72jCPbYywHYpZ8s5O19W1DpNPpxn7g7BoN7XewV204G3u7WfEBeWyl6IEa61iiOcB1VfY0LMVqXhVzyt1vPOhTXhDMzfHidtyBciNkW+sfr85LsBdTMqrRE3afSR/Je/egWvIguXprevTLL1skKXifrV1oYqqCvB8/My1Cg5S7OtcfHS42bnuR/S73CiGR+Yo4o99TNIUWoTKequnvoSEyOi48Fu+KTUdwk4LGM8xOTAtWQRl4XYOUCtSoKWroc3viLPZtsLPhNasUaGyciuWv7fZJ1Uyxtk1epdcxu",
+  "version": "1.0.10",
+  "date": "2026-10-27",
+  "zip": "releases/appapi-xe3-1.0.10.zip",
+  "sha256": "9eef2ed8a0da29bd106ba5950f4de3e53f028c0621fd8f7774f03be7642c185e",
+  "signature": "EhQFMN9pkNZzXsyvtIb21xuvA+2sGFLEDB2c1ms9nvIG9wckHxQ7eSL4CsZFA394xTmDq2wSffrI/0+fb7slcyKqWUC3H6P7WsSMMabasH5NCZ7xijWbtruo7TIatVyCxsxmzOCme5aSFXHEJRibabhchxrjc/znKLcA6H+rzNGgpfH+AMIyFBcGP1EVO7qlYiOA0D0AUOiKRMtZmUcDhJvnO0cy/Q58GRixtvjOfHutZTb9SSUtmDeFRnNZf54Exd1rGSdGAqOE6QkbjLfDftzSyB56fuG0nnCdrZg5NSakLrs58kj9hfcNKEu4k73heQgBbJEN8GI/ZzQ/ThGG2NoAt4WI+AcLNS1+OmNOs0L0CzTNGNHsXYYGIRhoyKuwWDbDJxtBGWtdvyaSII6655lshp5Ikw07gEwi0vBi9ph/nWOzoY/TXaABZjE0IDJA0+QbBoG8Dw543u6HJgDjJeZHqyvYkUe20aaEgR4WpacWKFASURrGjrBvFmaljXni",
   "min_php": "7.2",
-  "notes": "관리 화면·업데이트 안내·설치 안내 문구를 알기 쉽게 다듬음"
+  "notes": "번호만 올림(다른 모듈과 맞춤)"
 }
