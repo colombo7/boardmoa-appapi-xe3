@@ -1,9 +1,9 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "date": "2026-10-27",
-  "zip": "releases/appapi-xe3-1.0.10.zip",
-  "sha256": "9eef2ed8a0da29bd106ba5950f4de3e53f028c0621fd8f7774f03be7642c185e",
-  "signature": "EhQFMN9pkNZzXsyvtIb21xuvA+2sGFLEDB2c1ms9nvIG9wckHxQ7eSL4CsZFA394xTmDq2wSffrI/0+fb7slcyKqWUC3H6P7WsSMMabasH5NCZ7xijWbtruo7TIatVyCxsxmzOCme5aSFXHEJRibabhchxrjc/znKLcA6H+rzNGgpfH+AMIyFBcGP1EVO7qlYiOA0D0AUOiKRMtZmUcDhJvnO0cy/Q58GRixtvjOfHutZTb9SSUtmDeFRnNZf54Exd1rGSdGAqOE6QkbjLfDftzSyB56fuG0nnCdrZg5NSakLrs58kj9hfcNKEu4k73heQgBbJEN8GI/ZzQ/ThGG2NoAt4WI+AcLNS1+OmNOs0L0CzTNGNHsXYYGIRhoyKuwWDbDJxtBGWtdvyaSII6655lshp5Ikw07gEwi0vBi9ph/nWOzoY/TXaABZjE0IDJA0+QbBoG8Dw543u6HJgDjJeZHqyvYkUe20aaEgR4WpacWKFASURrGjrBvFmaljXni",
+  "zip": "releases/appapi-xe3-1.0.11.zip",
+  "sha256": "ba286e9656aecb92e3a502eb95d17936a5864dc53936e07ec123cb47bacc0b4b",
+  "signature": "hFZZ0G0HTsKM6sO47PnY3llBIgxDrDNOv0I/ZJqvlr7EcbvEaEE0elNgPyzcR2AmQkYvKQulCOxezjElUS/L7wvMf3iDSDJaZNPEP984rGz9tt/LJ1IYfcAezCKnkVr/+WqVoVLO2DgeaDBW3C5q04eCQhByBQpuEvnsxu+YDLJWF2nucfVDFLCal9qOrvC8stXhPNWR8694BqEPzCWPZV3HFyzX5JeldB18yQlF8a1eNQSfzE4ZqUoVan7iRLzhsrWcVo7Bd043BVpYrMT4oC5/MXIWVK6/p3jOU2mC0tKHaOaUiLwHHLwjo/5Ib7IKzg56kyplra+fwsuRi4KX8mIPeyLwNGqQ2z0m0wjbWbaVdVKhtJMT69Aur7SKVmf9S9lJthowRIHbuZYgelIw4d36+kGZPqDbOQlNSa7gPvXPYfifffcdb4+oEy20QJN+tqJi+LaMmhD6BdUOBAKj2j9QQ1w/IGNE8ik310zgl9Pi/MfOSFPEMvSCZbr6OrI6",
   "min_php": "7.2",
   "notes": "번호만 올림(다른 모듈과 맞춤)"
 }
