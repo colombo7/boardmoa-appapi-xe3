@@ -1,9 +1,9 @@
 {
-  "version": "1.0.11",
+  "version": "1.0.12",
   "date": "2026-10-27",
-  "zip": "releases/appapi-xe3-1.0.11.zip",
-  "sha256": "ba286e9656aecb92e3a502eb95d17936a5864dc53936e07ec123cb47bacc0b4b",
-  "signature": "hFZZ0G0HTsKM6sO47PnY3llBIgxDrDNOv0I/ZJqvlr7EcbvEaEE0elNgPyzcR2AmQkYvKQulCOxezjElUS/L7wvMf3iDSDJaZNPEP984rGz9tt/LJ1IYfcAezCKnkVr/+WqVoVLO2DgeaDBW3C5q04eCQhByBQpuEvnsxu+YDLJWF2nucfVDFLCal9qOrvC8stXhPNWR8694BqEPzCWPZV3HFyzX5JeldB18yQlF8a1eNQSfzE4ZqUoVan7iRLzhsrWcVo7Bd043BVpYrMT4oC5/MXIWVK6/p3jOU2mC0tKHaOaUiLwHHLwjo/5Ib7IKzg56kyplra+fwsuRi4KX8mIPeyLwNGqQ2z0m0wjbWbaVdVKhtJMT69Aur7SKVmf9S9lJthowRIHbuZYgelIw4d36+kGZPqDbOQlNSa7gPvXPYfifffcdb4+oEy20QJN+tqJi+LaMmhD6BdUOBAKj2j9QQ1w/IGNE8ik310zgl9Pi/MfOSFPEMvSCZbr6OrI6",
+  "zip": "releases/appapi-xe3-1.0.12.zip",
+  "sha256": "d79373415e24619a4481b4b2f7af082696ba2ff9ab92b724af1fce848490baa4",
+  "signature": "ERcU0qZN3Qj1FuswMu3tK5lWnofYVjdDiaJBnUZRxVLRs7WjvmwrfwdVr61nxA+RFqwX0FbXrjLVnZ4E8sYH/vptFtCueeSICedy1SsqTPIjwHrVK+FZT5Z/EIzMehDq0hk3mtzMmnDF6UUHwdUeQvO+LLixTfu/9PmX9Q2/PgfpiiSMBS24crgRVinzaViYMjCNNvimyDlg4kFz5Oi0oxcZ43JIJnfmj1SUIrpE8H7PKkMsWoBgINKJEAUxMqjYcxMhn9wVFCtwhdkfAuCQt8HXfYIDf5/NW+IteclxD+KvkIthzMOtG2OmRtLkcx4jYG7alqEbOLovht3glgw/P6c/sjMFHOAkfAoUkd4rdu38/DnZPI2h+YHOjkIE/Gd2ep3Xv0eXhskj0VSa6wHLKz9znqi44Dw+KgYN9hexqewX/tnqQyursOGvdAXNPxCn7DrAPULtlJ445Lb22dV2iNaEvyFlIHWWPap2wh4gE4fhFrkWS+bAt5Y0V/Kq1GDm",
   "min_php": "7.2",
-  "notes": "번호만 올림(다른 모듈과 맞춤)"
+  "notes": "앱 설정 '게시판 언어: 사이트 기본 언어'면 내용을 사이트 기본 언어로"
 }
