@@ -1,9 +1,9 @@
 {
-  "version": "1.0.13",
+  "version": "1.0.14",
   "date": "2026-10-28",
-  "zip": "releases/appapi-xe3-1.0.13.zip",
-  "sha256": "8b891f35792fb673b029435b03b02f5ef786451a06f44d870f5d2cbf6913d493",
-  "signature": "nsLLgT0Q84CC0sIGqjNkIu4MiwoXJCF4Vxb44s1Cs+06OpVcynDZ5VJbSqG/w4o6USYqfM4Ze/If9gkkXaSn+dMpoc7wipXC2pBIQE89c9BEWGm1RBCCZLzw1EdqR06OfmMkir36x4g1ffNtkkvOOk5tW4nFfqzxVZkM9WcZIc5RSHLzrk/+S6/guq/YDNU1oUtA6ffmZRvnhH3nuVcH29xm8cIeeCIhmj09HXafrqyfwDVZ9MiFMyqHyIIGrMEQN+3tCyy0WJmVKN25gbYfy6IRBzM6p4Vv3UoVErVgYiFlECsFXULi1H1gT8dbsYIEeVAcke1gHDnyziTn99VpdFIcMqfwIRbUTL7AlaYAzUDiQiK1mveNwV95ky2APBMFNDEzcsKSmQexY1n8XCKBugbQ0eI8uPoU9Hf4EW8EGI1g4pNaoEkddFhfbvXHbtyTWy477vNztjxKeY7ZOs8hA5U+Z856lSid4irugikRKSnS9o+JbHJ9WCCOGUqlj7BC",
+  "zip": "releases/appapi-xe3-1.0.14.zip",
+  "sha256": "03f972a8a70116c0b133c394da10603c9a36c15efc4d26391eb41406d3280876",
+  "signature": "vF3GjalXU58A0lYm+nMUeJFCVvnvPglQDZAM40yqPIx3SVnsWNk80UExuN6KT/QdBJX6yoraaNk8OvyfL8IfaQ2lHWJ4cRKdjfoTwBf2eWG6NAKSWuzsAi1gOABZF+d1CyWjS61RKYWOewcOi+rhvLgyZRhMENb0rugi1Wow56DSj8xzEenVwUQWBvE2qI3Hi5o38UBfq+1fzoLb4q6lT9qgHFE0qUcC12qEfvDvxTY2qmW1B5Su/HgLZgqUn/jCjTHZrK7xS70ROw+leRXWeTbS7NV6vZpsIHoYgjZ12sDbFK6xWSm+70Dfq57wOcc9/xWAbAsT+/awNJtJ7GtZHtnSUYIf4FFcXoFRTeqLPaw4I3apdC0dTJyLHoiKQYA/UrpXGAdX0QEZ/567nDbaGXptEk9B+nBxvdVq0RxIUK+8tnswHt5B0qDYDUSIle9Eua/3f2k9NJTOz+S645qsEL/owXxZbhQOah+eV7W7WfeTPqcbVz/EatOlCUeHXf/8",
   "min_php": "7.2",
-  "notes": "사이트 이름이 다국어로 저장돼 있으면 언어별 이름을 함께 알려 줍니다(게시판모아 추천 사이트 목록용)"
+  "notes": "업데이트 직후에도 설치 현황에 새 버전이 바로 반영되고, '개발자에게 알리기'를 끈 사이트는 설치 현황에 넣지 않습니다"
 }
