@@ -1,9 +1,9 @@
 {
-  "version": "1.0.12",
-  "date": "2026-10-27",
-  "zip": "releases/appapi-xe3-1.0.12.zip",
-  "sha256": "d79373415e24619a4481b4b2f7af082696ba2ff9ab92b724af1fce848490baa4",
-  "signature": "ERcU0qZN3Qj1FuswMu3tK5lWnofYVjdDiaJBnUZRxVLRs7WjvmwrfwdVr61nxA+RFqwX0FbXrjLVnZ4E8sYH/vptFtCueeSICedy1SsqTPIjwHrVK+FZT5Z/EIzMehDq0hk3mtzMmnDF6UUHwdUeQvO+LLixTfu/9PmX9Q2/PgfpiiSMBS24crgRVinzaViYMjCNNvimyDlg4kFz5Oi0oxcZ43JIJnfmj1SUIrpE8H7PKkMsWoBgINKJEAUxMqjYcxMhn9wVFCtwhdkfAuCQt8HXfYIDf5/NW+IteclxD+KvkIthzMOtG2OmRtLkcx4jYG7alqEbOLovht3glgw/P6c/sjMFHOAkfAoUkd4rdu38/DnZPI2h+YHOjkIE/Gd2ep3Xv0eXhskj0VSa6wHLKz9znqi44Dw+KgYN9hexqewX/tnqQyursOGvdAXNPxCn7DrAPULtlJ445Lb22dV2iNaEvyFlIHWWPap2wh4gE4fhFrkWS+bAt5Y0V/Kq1GDm",
+  "version": "1.0.13",
+  "date": "2026-10-28",
+  "zip": "releases/appapi-xe3-1.0.13.zip",
+  "sha256": "8b891f35792fb673b029435b03b02f5ef786451a06f44d870f5d2cbf6913d493",
+  "signature": "nsLLgT0Q84CC0sIGqjNkIu4MiwoXJCF4Vxb44s1Cs+06OpVcynDZ5VJbSqG/w4o6USYqfM4Ze/If9gkkXaSn+dMpoc7wipXC2pBIQE89c9BEWGm1RBCCZLzw1EdqR06OfmMkir36x4g1ffNtkkvOOk5tW4nFfqzxVZkM9WcZIc5RSHLzrk/+S6/guq/YDNU1oUtA6ffmZRvnhH3nuVcH29xm8cIeeCIhmj09HXafrqyfwDVZ9MiFMyqHyIIGrMEQN+3tCyy0WJmVKN25gbYfy6IRBzM6p4Vv3UoVErVgYiFlECsFXULi1H1gT8dbsYIEeVAcke1gHDnyziTn99VpdFIcMqfwIRbUTL7AlaYAzUDiQiK1mveNwV95ky2APBMFNDEzcsKSmQexY1n8XCKBugbQ0eI8uPoU9Hf4EW8EGI1g4pNaoEkddFhfbvXHbtyTWy477vNztjxKeY7ZOs8hA5U+Z856lSid4irugikRKSnS9o+JbHJ9WCCOGUqlj7BC",
   "min_php": "7.2",
-  "notes": "앱 설정 '게시판 언어: 사이트 기본 언어'면 내용을 사이트 기본 언어로"
+  "notes": "사이트 이름이 다국어로 저장돼 있으면 언어별 이름을 함께 알려 줍니다(게시판모아 추천 사이트 목록용)"
 }
