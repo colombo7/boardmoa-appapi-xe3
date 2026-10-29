@@ -1,9 +1,9 @@
 {
-  "version": "1.0.15",
+  "version": "1.0.16",
   "date": "2026-10-29",
-  "zip": "releases/appapi-xe3-1.0.15.zip",
-  "sha256": "8583c47d25d9c81797a76ef6fdf3682a61191ab6a9be12535a47ac8018abdbc1",
-  "signature": "mJs7yVneL1zB+YUMAS+bAbgfzH5Td/vn8QtM9vF8k+LUeENO5xT2RHZ+rhbHVUW0xHKfKSfhhrhKZ+GN55f8+YTvqlH+T3ixaxdzxCsd3KGbFChHOaqu2EOK1x+u0AJ1vIG5CV6jQwSO5l9B+TMnKfKGHp0IgRujtSn80sbVMwhsUOaLHdO/YgzIiYN+CJxXvH91GE6BIUMoQuhBF0C5Q9T5j0aQ2ZgxMoUGqYy90EDzAfo1xVFrrmKAH7u6h1jnylBi2PL0Bbco8oImhOCnoBwR8McPOkshF4S3RfIetI9UfITZfscuaE+tbFRBTd63/2VL/4vFBmXqKBYTBUYVb5YtUNVm+5YixqIYkDHVr7nYMFNZHVP0Ik8lrU2hbKMuU81FtKuI7rnINtMRxA1nXJkI9J8IrlQ+WKU/s9GZMii4hOx0fxTpBc4G3B+wmfDRJIKRS9vRUB0MWWxZ+0xFRizAAYOIMIUmnU3w7lW05y//kwnrlE05z05oRpyn25Z0",
+  "zip": "releases/appapi-xe3-1.0.16.zip",
+  "sha256": "ce62de190c8c3b85cd83a84103b4ce239fc6a060bc4a834ecc37200409f7afc7",
+  "signature": "G7knFruy1LT69DrjzL220pepe7eNPvNQyksLmrzguGm9L8gY320MQWFGf3RdJS98WMGjDToXBCSxteH2OOONVq6HJtnOhg2P60BPmuveVKgTCk4NDl2hHz0uRMqCuifnKPEY5+EnKi90UqJlD5qhSzpPm0DaVKTJ1xKESjnRrMSaE5PeCP5NsHRpnCYJFuj8mTcKoxepD2YbtdCKdGiXhAJrSsqZCWM+ttUWqfkd+H6zWl7svTKJB3TGbnMJFImP87f/tJOax7GM9z455//0vwPtorKZl6erhw3BWoWvnJPmvZMWQaJEkw2nBLebOkCu85T03RasYgzyAHkltdCnTp1d+CGeAqX4Lpu0uJQpyl9Z6bcFBGli3eggqvFtnpYtT0PHqQ2HX6cHxRUsh8bTGNSnURhUStuvQ8BXGQWbC/RcitksTgbgocpICBPVAGlgS3lt6D+HrcM7eIcJ1ffvDzYrabfSUOM6KG3kE4nRRbeNWpQUh79ffut33ocHa8k/",
   "min_php": "7.2",
-  "notes": "모듈 4종 번호 맞춤 (그누보드 모듈 추가, 이 플러그인의 코드는 그대로)"
+  "notes": "모듈 4종 번호 맞춤 (그누보드 모듈 설치 방식 정리, 이 모듈의 코드는 그대로)"
 }
