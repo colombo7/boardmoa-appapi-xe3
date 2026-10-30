@@ -1,9 +1,9 @@
 {
-  "version": "1.0.23",
+  "version": "1.0.24",
   "date": "2026-10-30",
-  "zip": "releases/appapi-xe3-1.0.23.zip",
-  "sha256": "c791d8e7669cf7e700b6e55008c2b6ce024221f68f0c8bca27bb3e16c5267f27",
-  "signature": "DpLvbNTWPikP3O5JO0mld2KvYcAXpr9KrlyThk4STpcWHjmtM/UWr8K0qqqyC4tHC6qvPDkmu3XirBf6voOQJpI76azhqLM3yg0GIxScHh82vgJZgGWQPwYWt7t65AXdto072s+apSosqHUb6uGawD/mnRBtYW6Jw/zE1GyMZjCShFhRWji+i6068eC/cHn+DpBd1gCd+ULXlvok494I4NZa25VLRr4JLQoYdZfvSsD5+1tXIra2+8WdYFs2J7E2Ufhg+Av7USSn67IT6SmtVKAhOcJZlpKMDA3sj6th0Hc2w9MV54wwz6AZdAlsL5cNzPXXYCQ4dodMGN52UjBusZggvjABN7/H2e1PRIHJD3rQAq83muXam5GIdh+eaB6t8TKUsnE5KZ3KJ+hPY8Zgvoqd8U2BI7YzROjKjouDcyP5DYidYUW08kqhSYZj1AEg8qZOjBKv4K8XGp1OL33NLBZ6D/Cgc84ccAlkC4gAalMwpCxacz6sAu0r60KRbCuj",
+  "zip": "releases/appapi-xe3-1.0.24.zip",
+  "sha256": "686dd8235c41efacc24796ddbbb2635dcf2d4d5a2a9d0ff7ca56b9905fc9541d",
+  "signature": "SvkeJKVvu0DaUvMKePDYoCWvUtZgtk6fuyZfM9GiK1LdRTqKZVUTE8aJOwgmkKcL0bKWb1ZtyndTuaCIU+DiyQMfhEH8lHK6wF5RIeJ1a0sT1Jrh1s83VNj338u0irwTnIshO9fMldxbiLx95CKJYHU++Q9jsWbt6tI4JQrz7+4noMu1m0JbLcaut0sP5xdfVy+ddW9mYatcQPh/010KfZv3mupWXAh6VeBZD4wk2wSwOS3m+1a9OxFuOcNh5k9u/umwp2O5dBSUVMcGDAaUPoBiq7BW+gVeWpEA7wZ+ns4tiwRDCj8Ir11rYRUkzAJlDHNcWau3wPq8hjlKNXrtWgnWXnd1MgSdrdR5daSVtVfncVCM+HguRpyXDpLUGu17ybJwjk2haglC4h2RF8LRWsBEx/JyytkL/ymrhnL8m4Ny3L1fkzuXK04b+j3qcgwY+HjEyzmuBMEFKtmlJjofoG8V0tTk49PBgp6l0t/jvnxe2heMZzR405OD+PJsuOGM",
   "min_php": "7.2",
-  "notes": "내 정보 수정에서 닉네임·정보공개 변경 제한 기간 안내(그누보드)"
+  "notes": "그누보드 관련 설명을 플러그인으로 통일"
 }
