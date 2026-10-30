@@ -1,9 +1,9 @@
 {
-  "version": "1.0.22",
+  "version": "1.0.23",
   "date": "2026-10-30",
-  "zip": "releases/appapi-xe3-1.0.22.zip",
-  "sha256": "ca8c15bd718680f341250e7310ee221498ad93509df1bcc4b12590f717762e7a",
-  "signature": "CEsX+EUiI9vncM4pjpKuFPmOJW8uS0ZwmtHZCAMJw+4EkGIPq/N/29NihP8T8BEeHaHIoS0oRiPiu2cQkMWRuSeqK2HylYVHYbVh+7YLuyQ0xImQ20UAfUPAwGvu+kQjmWOwv+LVau79tCthVb1bP97dstHHbWj+b0oQfdpKb2Ej/wn9a7OsfX/okJ4pCynC7tGIszI82jImRS+/qeJ6axl2qDnJXBuqqtC3TehCQzgdd3XnV5FtMzFsibvA/D15Oohfh2DNVeoX6lcYY+LzuNLl78xjs2EiA12YhAmCNaBySJ2UepHCZJZyPHKtzQPBLLtJ1O2Z9bBPXGUZ2YAXuYS/0rAi41mhLz9NG2BpGtM0R16PrL3xMTXlkBQTk4x+vfKA45Fjn+Ba53ZS04KpXsIwxkigCDnQf/JrfUrvhk+VgOXOtJyoVTO3aE45WDDvOaD1xztLXRUhjYhR7E+HQaYstPDakXTtHzuwt/Ya40CPdNPeAysqVejV2xeWyNRE",
+  "zip": "releases/appapi-xe3-1.0.23.zip",
+  "sha256": "c791d8e7669cf7e700b6e55008c2b6ce024221f68f0c8bca27bb3e16c5267f27",
+  "signature": "DpLvbNTWPikP3O5JO0mld2KvYcAXpr9KrlyThk4STpcWHjmtM/UWr8K0qqqyC4tHC6qvPDkmu3XirBf6voOQJpI76azhqLM3yg0GIxScHh82vgJZgGWQPwYWt7t65AXdto072s+apSosqHUb6uGawD/mnRBtYW6Jw/zE1GyMZjCShFhRWji+i6068eC/cHn+DpBd1gCd+ULXlvok494I4NZa25VLRr4JLQoYdZfvSsD5+1tXIra2+8WdYFs2J7E2Ufhg+Av7USSn67IT6SmtVKAhOcJZlpKMDA3sj6th0Hc2w9MV54wwz6AZdAlsL5cNzPXXYCQ4dodMGN52UjBusZggvjABN7/H2e1PRIHJD3rQAq83muXam5GIdh+eaB6t8TKUsnE5KZ3KJ+hPY8Zgvoqd8U2BI7YzROjKjouDcyP5DYidYUW08kqhSYZj1AEg8qZOjBKv4K8XGp1OL33NLBZ6D/Cgc84ccAlkC4gAalMwpCxacz6sAu0r60KRbCuj",
   "min_php": "7.2",
-  "notes": "그누보드 내 정보 수정의 자동 입력 방지는 지원하는 앱(2.0.7~)에만 요구"
+  "notes": "내 정보 수정에서 닉네임·정보공개 변경 제한 기간 안내(그누보드)"
 }
