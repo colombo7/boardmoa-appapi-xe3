@@ -1,9 +1,9 @@
 {
-  "version": "1.0.27",
+  "version": "1.0.28",
   "date": "2026-10-31",
-  "zip": "releases/appapi-xe3-1.0.27.zip",
-  "sha256": "79bb92aa9ded96eebb1f6c7cedae79692849e956692a46dd3073f0b77f25a07f",
-  "signature": "kDjdRwJW7GR7tdZfV3e2mPf6J7WqHmdPTqNzdG5y93PIH2zTtcFdq5ajAkLmOpjdkpCHfUbqQRom8P79PYyEKOoWiXMsj1IBzkCUyF/uCaQTBv8R4e+2kHX2adIiy69FINUsJfdXRh36xT2NWstYSlPwH/m2ZIUnoJIaXj5H3+kN/fbhZmeF0B5DFjpnvLhaa5LkcA49iLKuSIEGa2mjznW33qXjOTrd2IBmeCbmSju6IGH8nRiZK6C1Y1KqatKjaYO1ltHUPQpyoc+ZiVdS/DWpQc0W9pQJg9L68OhCwDsa7E4o0DZsaRC107wqCrRW3on7HEab5654EeOgzJXcDdIYT/1iKJtqlggw9uk/+PWbQJZ6O4loy6NWhcMywAwNhrotFdKDwZHdmhFKsHlzyFr7KPQPxPckkOHe8/1MrI8VIO2BJMixylXvL70/MFdy1TU6S3xI9wSzp8KEtX+Ye49D3gopGS/a74x5p/zbgv9i+ygddFBrj0LL5LdtG+Ia",
+  "zip": "releases/appapi-xe3-1.0.28.zip",
+  "sha256": "61e85b5fa490fc38db237d7fd8b2aa80674ea0cacdf951125785900f09ba5d23",
+  "signature": "JvMA1w5FR0fDjIKmvjvNyn+sxKB5WnEg4IYyo05575zk/nyXrDglCRa36aozLkmi6IHwXLCHi9+MnKqHEGwQLcA1ep+otN4zD+HLe0E4aU6MsDvY4n0fzH76ZPPZBXYCoVxmaIMNuBeTcC14zW+Z7fVwI4gijl4LscHgNIAjwcc3ekJzvOtEd9VmtBQF5jwRgcrp1MmETC8jSvyWCHqzJCIFaxSZDRNTitH/FHjBSYEnCkB9pePd5n/BG6vX/D6jRc5VR3MqLzpY1hh+C+ff0XgqYGHMVRUCn49NvI3RQJPNMGsIt9QNABTsLjdNEAeYsXhSQgiJL2fM93Ls7BWS24tw47A/OBjkBilY2ddJzGFZBQHLWYAYP1TV9Rs05TGm9eCOXldR7bndhAO4AsnTJ8FSPFKTklhWOi2G4cva04AdHJ0ItTYuCz4O5mARqvcJHWxBb/Gn2FMIJQqyrg2nDjYR29wWzSZmh1WZdgyr81lBhXBuFSkqp3ox5XGe3n/o",
   "min_php": "7.2",
-  "notes": "번호만 올림(그누보드7 플러그인과 같은 번호)"
+  "notes": "앱에서 회원가입"
 }
