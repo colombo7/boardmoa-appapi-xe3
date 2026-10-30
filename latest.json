@@ -1,9 +1,9 @@
 {
-  "version": "1.0.20",
+  "version": "1.0.21",
   "date": "2026-10-30",
-  "zip": "releases/appapi-xe3-1.0.20.zip",
-  "sha256": "d0874ddab7093de50662d9eb16599e61fd5f9c5f058960fb78ebdd7007d76fe9",
-  "signature": "Gg3iiVMCkNz7EpfDqSKvdBNalvH6kvSPqQRI9ag3V8F6k1OfSyYny2srSU7IJM7jZvd7U5ZpttfNW8Qrd5yRonSG9B+kWTyTpsRDMb1uIEwF+Q/K9D9XDulC6idKIF/jCTgxtaBNI8+bDETOWJ0Xo8dZH5kPg88Uyxp4KCgOHukXXvaohoEQM3aDrzCB7OQQrUMEX8f2rduQ+fcajNOtYxCsakMY7BTgMuM2AWV+Nw7/X5OamUjMVFLl27EWQIhBXpTLwjkyoBGFiPQdhxpGBqc9Ik/yfDyof+aWDd4M/1NPqxv+stcLDruzK5nYrEDsrcbUNGxB8os9b/JKujlFoNsy9aeYBSP3ekfkkN97q0KmHXHhbAPS0sZtXPh1dVrAa/j5kwbg5Gbogzsb2N9te/+3z1KX8kPjwNBwRwFv0IJOeAVJVmKLUhp0kP/go+lhyFc+EO8bRYVGLodcQFHCJ5kqJMlYCAcISmBGjdPZFpJvkw7V5RkuEostThqt02aJ",
+  "zip": "releases/appapi-xe3-1.0.21.zip",
+  "sha256": "babe74d2ecaff1d7a20bc1d145ebac0a2c877cd22bc3f010efa00316f9ce00f8",
+  "signature": "scppvoWRXOYvAwrcC0GjZFQ9/1bWdXcgzl0KRBiEcljCRFeYJHdrzg7PnE1r3pB58IgP8Vz/D3WjHe+IBB0ZqqH/df8v4rV8OmvrzF8sR58TBnNFbrXwMnhIMMrmyTWogb+/IKVXGAjfHCwE2ihpp/DmDCiM7jf+glQT9Rt5n0zNYRTp4NrjI7a5DJ0gt/qH7/lFK3bFajTjqPoRKadeEG8U6AcuAhvHWfxCHxjPE5qHuEHoVSraF8y4wkkAefl66YPOjzel+T9rStb/dknICHJqiU6oCULEgPVsK8M3502Ycwp5okEusfT680Yg2e1xu7nBspZrwPkX+O65TD99WwNKFaMOHvK55kDdcbCpsKOy9O5tkz6g+Gq3ObQk44n2Ruar/G/jHbbmWFPe/eH4m3yRRkjChekz2T8J31rY+9TA4LsUlO1PPNTMuRzM5rEq6UyJ85iFB/yAmOo8vzcdWUMRAI/u5qNTObyPmI4QBKN1sUFv1KaCk0QJBOzWOmhu",
   "min_php": "7.2",
-  "notes": "이름(닉네임) 표시(앱 2.0.7부터), 그누보드 내 정보 수정"
+  "notes": "내 정보 수정에서 회원아이콘·이미지 이름·이미지 마크·서명·자기소개 등 웹과 같은 항목 수정(앱 2.0.7부터)"
 }
