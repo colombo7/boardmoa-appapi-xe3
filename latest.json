@@ -1,9 +1,9 @@
 {
-  "version": "1.0.24",
-  "date": "2026-10-30",
-  "zip": "releases/appapi-xe3-1.0.24.zip",
-  "sha256": "686dd8235c41efacc24796ddbbb2635dcf2d4d5a2a9d0ff7ca56b9905fc9541d",
-  "signature": "SvkeJKVvu0DaUvMKePDYoCWvUtZgtk6fuyZfM9GiK1LdRTqKZVUTE8aJOwgmkKcL0bKWb1ZtyndTuaCIU+DiyQMfhEH8lHK6wF5RIeJ1a0sT1Jrh1s83VNj338u0irwTnIshO9fMldxbiLx95CKJYHU++Q9jsWbt6tI4JQrz7+4noMu1m0JbLcaut0sP5xdfVy+ddW9mYatcQPh/010KfZv3mupWXAh6VeBZD4wk2wSwOS3m+1a9OxFuOcNh5k9u/umwp2O5dBSUVMcGDAaUPoBiq7BW+gVeWpEA7wZ+ns4tiwRDCj8Ir11rYRUkzAJlDHNcWau3wPq8hjlKNXrtWgnWXnd1MgSdrdR5daSVtVfncVCM+HguRpyXDpLUGu17ybJwjk2haglC4h2RF8LRWsBEx/JyytkL/ymrhnL8m4Ny3L1fkzuXK04b+j3qcgwY+HjEyzmuBMEFKtmlJjofoG8V0tTk49PBgp6l0t/jvnxe2heMZzR405OD+PJsuOGM",
+  "version": "1.0.25",
+  "date": "2026-10-31",
+  "zip": "releases/appapi-xe3-1.0.25.zip",
+  "sha256": "c806610a1abbb13a97c72e05f0b7bfe5a85ae3275b10f2f562c38bd7cab60459",
+  "signature": "FcsuAFDQEJM48iGCPmFmyxZlmhduxqUTZr8/ZQx4E8KTdFGVXCPIIYWeRysc34WzzJgIhGX7nIVrLS/nbZoRJSUDduy0dh+lR0mWEPdmzeukLrxFgYEaYjkLmr/VV/aLfTapkXRcaNEVh6WjMjJLOyzIiFEJa05QqNtv5gDMMn1AFMHLhw3QgD8p6C9m4Gdqcs/vyNIU+gvbEfy5VY+t1AmOgePqA5gbK4Da6DC4dlaNQrYJePuwIzIjh5HrlVhv1ltTBK021WU8whlF8bSgJFNy8MAK12hpnbi0McCZBU/97tmym6eh+ZdCYQWeneNbkek88dN9Rs8vhX1qGY+MsL6ngoWlaDGQxXEk4zCKuc52bmRNBgaWp7cup/NyGiK/zCyLL5vHcgwNi7hARqCJqu5add2EKk4ts9g++lajHiSBDj6Bk6JPLcZzdIPYIGWGYa8rvzRxP4UxmZYFSE6BgW/deyIZX+dblNJXg6Y4oBRr5ITnYFiYqr+u+syIUwud",
   "min_php": "7.2",
-  "notes": "그누보드 관련 설명을 플러그인으로 통일"
+  "notes": "번호만 올림(그누보드7 플러그인 첫 공개와 같은 번호)"
 }
