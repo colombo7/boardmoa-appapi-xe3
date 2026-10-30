@@ -1,9 +1,9 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "date": "2026-10-30",
-  "zip": "releases/appapi-xe3-1.0.17.zip",
-  "sha256": "76b035f22e3bd41f7b8bd91c2a57486d4eb5c27278a7d217b862363713024555",
-  "signature": "HlAYt/qX5XhkFhHX7smtHunylpMjKWuFIXzhsWwyNHOATIQQ6x8pXDXQFekvjmPawlxnI8ojj3uW8edR3SEmboqsn1MlyQZt63EZ+B1oInDSmf04fMK+hzQDBgETyQTYt8kVfezPf+NCjUjECO1Y/cehSyD15XTDmpe5rS6KipxtKutI+SbRsDNeOK8KrsJOcEtHtSIcrN5HpUXAfqG13rd4aPBttqRfleOG3aZeo/sBsBEYUuKoyRy46gX2npdeT4BYMMEwc+6qDhY4CB/7ttWunAQxWxqMNbmyGJI1F4pmaGQnqH3sR6dytZ+Zo1G92hjhhIVkSE0R1f5wUHUa9logBD4itWK+yGAP36SpQHpSUTUZ8LBAZ6+gMknEdH9RJhf09Y/rc4saiJjAlkzuJmSm2NEct6hcrElZW668fhoLH5ohwnAfdKS8PBAZ6LklLvBO2EJjRwtzo6DI9WLt5QuWWR1lKwriTh2MsCXesjzc1Jh+OmK8El42IWHLURn4",
+  "zip": "releases/appapi-xe3-1.0.18.zip",
+  "sha256": "8663bdced1487062fa4618bcd677b1b1d219775a2de2b9475a1d18d67519e489",
+  "signature": "Tp9nDWLltva0497bn4a4ujMmniEtOV2emktZlt1/1EHXP7yuwSu3g8+JI1MhU3LiMeuosrSPy9a/r9jit0NgQwCBfctie5RmOlUe1sb5xMEEcOTWZzDi2FRPHY61UEEZn9q1GCHp9vdR7Dr+vSsHLv5vGj7NmkKM25PX33bc3iPUmZl3JPVvQdOYYF2Q8+r1hwCzgKx2H9Gm4rPs37YrjxrxnNsg4HwI5aKHruCJZaTf7jJUY5Se1fQFs1ztbIOvOhJnsw4QbrBjuN2xU8FbqmRvXA+B7doEHn3BySvu5aTcNbowz/6sUhhnVxfPFnPJ2vaV5g2lMq/F594SnXtPUbo5+bW7ktjuq7rCbX8dgVmG8VnOSbVt+oeoem+I2J5CowGXUg6ncSRzkpjsVg44L/OADMVac/8FUZFFW14i/KPkqBBPBpSIpaNMUtBTXJhi6DDw2bh1uTMB3xmnqhG5gmX8hiRl+bUqMJNAxQCpA2ByyvkoFAUwNhz1XO0v34Ye",
   "min_php": "7.2",
-  "notes": "번호만 올림 (모듈 4종 같은 번호, 그누보드·WordPress 1.0.17 과 함께)"
+  "notes": "1.0.18: 보안 강화(앱 본문 스크립트 주입 차단, 업데이트 백업을 zip 으로, 비밀번호·로그인 시도 제한), 댓글 추천, 파일 첨부, 비밀번호로 연 비밀글에 댓글, 태그 표시, 웹에 보이는 단추만"
 }
