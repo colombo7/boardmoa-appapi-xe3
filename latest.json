@@ -1,9 +1,9 @@
 {
-  "version": "1.0.18",
+  "version": "1.0.19",
   "date": "2026-10-30",
-  "zip": "releases/appapi-xe3-1.0.18.zip",
-  "sha256": "8663bdced1487062fa4618bcd677b1b1d219775a2de2b9475a1d18d67519e489",
-  "signature": "Tp9nDWLltva0497bn4a4ujMmniEtOV2emktZlt1/1EHXP7yuwSu3g8+JI1MhU3LiMeuosrSPy9a/r9jit0NgQwCBfctie5RmOlUe1sb5xMEEcOTWZzDi2FRPHY61UEEZn9q1GCHp9vdR7Dr+vSsHLv5vGj7NmkKM25PX33bc3iPUmZl3JPVvQdOYYF2Q8+r1hwCzgKx2H9Gm4rPs37YrjxrxnNsg4HwI5aKHruCJZaTf7jJUY5Se1fQFs1ztbIOvOhJnsw4QbrBjuN2xU8FbqmRvXA+B7doEHn3BySvu5aTcNbowz/6sUhhnVxfPFnPJ2vaV5g2lMq/F594SnXtPUbo5+bW7ktjuq7rCbX8dgVmG8VnOSbVt+oeoem+I2J5CowGXUg6ncSRzkpjsVg44L/OADMVac/8FUZFFW14i/KPkqBBPBpSIpaNMUtBTXJhi6DDw2bh1uTMB3xmnqhG5gmX8hiRl+bUqMJNAxQCpA2ByyvkoFAUwNhz1XO0v34Ye",
+  "zip": "releases/appapi-xe3-1.0.19.zip",
+  "sha256": "f508bec9bdefb5693ebf402b15257f9dae275061340662987eab6cfa922e933d",
+  "signature": "Gy/Z2J+KC6aUpqPCCaL/pDnbpxv3swulFFDllPHksUK/v+6WYCSLkYtc7wr3X5oJJnw4QkiN/F/dBMy71HakBKy+yIB76KjoJWdeAUmpEH3Gw1DxRCg+qdnJTiGmAfnR4ICzQRa4yiaP880qOD9wdbu/Tf6EyqCu2zaj7KDTTWGyVAVnXWizsZmgyKhJ6JKw6AduF03ZVnAS80nCsK3n4jjrSd0hfsQ2ewa0xWfGNSzY8TupicQi9MaKp2OqwJGodV5Z6vxTqQOo+Hs4nkkJB3kEZjheg0R2ROLj2DrngbBlB26p0CqW3MmwVe1nVMd/ZaJXWpBGJblt574Rt0Y7c4SOWZLMhk5df6aeCoW4+wF4pzb4P6jTKtDROTVX4Yvx4bkBm0DHs5EK+ML6Bg8qDcJWbMnSNqQNiMmdFOKI5q+rPX9qytwjdx8P48vCP5jfUj/UONDV7Mg9XEgNyfN+OFksQRPWvLOtywDZKq6xltuA/CIjJEWHF31rAsgYdyg1",
   "min_php": "7.2",
-  "notes": "1.0.18: 보안 강화(앱 본문 스크립트 주입 차단, 업데이트 백업을 zip 으로, 비밀번호·로그인 시도 제한), 댓글 추천, 파일 첨부, 비밀번호로 연 비밀글에 댓글, 태그 표시, 웹에 보이는 단추만"
+  "notes": "로그인한 기기 목록·로그아웃(앱 2.0.6부터), 보안 보강"
 }
